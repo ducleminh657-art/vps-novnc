@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://globe-discount-guidance-make.trycloudflare.com/vnc.html
+URL       : https://registry-floating-discharge-depth.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-06 15:03:20
+Created   : 2026-06-06 23:45:02
 =======================================================
